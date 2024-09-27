@@ -1,5 +1,4 @@
 # simon-game
-
-https://vinay-deora-55.github.io/simongame
+https://vinaydeora55.github.io/simon-game/
 
 click here to run
